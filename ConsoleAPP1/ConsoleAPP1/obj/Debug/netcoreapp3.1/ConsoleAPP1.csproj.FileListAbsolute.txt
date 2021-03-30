@@ -1,0 +1,13 @@
+C:\Users\Acer\source\repos\SP21BCS\ConsoleAPP1\ConsoleAPP1\bin\Debug\netcoreapp3.1\ConsoleAPP1.exe
+C:\Users\Acer\source\repos\SP21BCS\ConsoleAPP1\ConsoleAPP1\bin\Debug\netcoreapp3.1\ConsoleAPP1.deps.json
+C:\Users\Acer\source\repos\SP21BCS\ConsoleAPP1\ConsoleAPP1\bin\Debug\netcoreapp3.1\ConsoleAPP1.runtimeconfig.json
+C:\Users\Acer\source\repos\SP21BCS\ConsoleAPP1\ConsoleAPP1\bin\Debug\netcoreapp3.1\ConsoleAPP1.runtimeconfig.dev.json
+C:\Users\Acer\source\repos\SP21BCS\ConsoleAPP1\ConsoleAPP1\bin\Debug\netcoreapp3.1\ConsoleAPP1.dll
+C:\Users\Acer\source\repos\SP21BCS\ConsoleAPP1\ConsoleAPP1\bin\Debug\netcoreapp3.1\ConsoleAPP1.pdb
+C:\Users\Acer\source\repos\SP21BCS\ConsoleAPP1\ConsoleAPP1\obj\Debug\netcoreapp3.1\ConsoleAPP1.csprojAssemblyReference.cache
+C:\Users\Acer\source\repos\SP21BCS\ConsoleAPP1\ConsoleAPP1\obj\Debug\netcoreapp3.1\ConsoleAPP1.AssemblyInfoInputs.cache
+C:\Users\Acer\source\repos\SP21BCS\ConsoleAPP1\ConsoleAPP1\obj\Debug\netcoreapp3.1\ConsoleAPP1.AssemblyInfo.cs
+C:\Users\Acer\source\repos\SP21BCS\ConsoleAPP1\ConsoleAPP1\obj\Debug\netcoreapp3.1\ConsoleAPP1.csproj.CoreCompileInputs.cache
+C:\Users\Acer\source\repos\SP21BCS\ConsoleAPP1\ConsoleAPP1\obj\Debug\netcoreapp3.1\ConsoleAPP1.dll
+C:\Users\Acer\source\repos\SP21BCS\ConsoleAPP1\ConsoleAPP1\obj\Debug\netcoreapp3.1\ConsoleAPP1.pdb
+C:\Users\Acer\source\repos\SP21BCS\ConsoleAPP1\ConsoleAPP1\obj\Debug\netcoreapp3.1\ConsoleAPP1.genruntimeconfig.cache
